@@ -62,6 +62,8 @@ When creating a new task, the screen shown above (Figure 9) is displayed. On thi
 Figure 10
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 26" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b0981fc1-fe86-4b13-8058-7e4c763fb43c">
 
+To complete the creation of a new task, payment must be made from the crypto wallet. This is demonstrated in the picture above (Figure 10).
+
 Figure 11
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/196190ab-eead-4a29-bdda-db1800bc38c2">
 
