@@ -20,7 +20,8 @@ This is a link to our UI design:https://www.figma.com/proto/CxzBPiJeDRRZJKkkCstf
 Figure 1
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 24 59" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/65e76383-b3e9-4f86-9401-17faba23e523">
 
-The Splash screen, the launch screen that is first seen by the user, is purple in colour and has a tick in the box. The tick in the box symbolises a to-do list
+The Splash screen(Figure 1) of the project, the launch screen that is first seen by the user, is purple in colour and has a tick in the box. The tick in the box symbolises a to-do list
+
 ### Onboarding Screen
 Figure 2
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 24 43" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/ee224ca2-4e16-42a5-9409-3c121e77f242">
@@ -31,7 +32,7 @@ Figure 3
 Figure 4
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 09" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/02849f9b-9750-44cf-89c3-73e6a0bc1746">
 
-
+The onboaring screens(Figure2, Figure3, and Figure 5) 
 ### Login and Sign in
 Figure 5
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 12" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/cbc86c96-485a-4469-b0fa-270043e3c57b">
