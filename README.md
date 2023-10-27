@@ -72,6 +72,8 @@ The picture above (Figure 11) shows a sidebar screen with user information.
 Figure 12
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 37" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/2cf3e591-e0fc-425d-a594-84fb0dfed71b">
 
+The figure above (Figure 12) shows the completed group tasks. There is a sidebar button, a blockchain command button that can take you to the group's page, and a "Completed" button that, if clicked, will show other categories of tasks. 
+
 Figure 13
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 39" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/059054c6-c165-439d-acf9-215f2ddffa6a">
 
