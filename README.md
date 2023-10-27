@@ -82,6 +82,8 @@ The figure above (Figure 13) shows the different categories of tasks, ongoing, c
 Figure 14
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 44" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/7b8d2f7c-e578-43c3-96ae-76ec65fef7c5">
 
+The figure above (Figure 14) shows the not completed tasks and the checkboxes that can be ticked when the task is completed. You can also open a group of the task.  
+
 Figure 15
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 46" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/a1bad23d-7d37-4472-8398-3a1e77eace0f">
 
