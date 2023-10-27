@@ -35,7 +35,7 @@ Figure 3
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 07" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/8258ac66-6408-4a24-8325-3e8969e0c728">
 
 Figure 4
-<img width="1440" alt="Снимок экрана 2023-10-27 в 19 11 17" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/27130419-b297-4d74-8838-43a583c1d72c">
+<img width="1440" alt="Снимок экрана 2023-10-27 в 19 11 32" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/858f9ee0-1dff-4dde-a7bc-1f78b7987065">
 
 ### Login and Sign in
 
@@ -66,6 +66,7 @@ Figure 9
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 12 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b39c2736-5ef6-4add-a4d2-15f4583c98f2">
 
 To complete the creation of a new task, payment must be made from the crypto wallet. This is demonstrated in the picture below (Figure 10).
+
 Figure 10
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 12 45" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/0dd5e339-1c25-48fe-8faf-af0cb17d007f">
 
