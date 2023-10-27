@@ -13,5 +13,3 @@ Our dApp is significant as it has the following importance and values:
 In this repository we provide Project Idea Design, UX/UI Design, Code.  
 
 This is a link to our UI design:https://www.figma.com/proto/CxzBPiJeDRRZJKkkCstfKY/TO-DO(-Plan-It-)-(Community)?type=design&node-id=3-2171&t=0QhTBDqvIzo9gH5E-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2972&mode=design
-
-<img width="1440" alt="Снимок экрана 2023-10-27 в 18 24 59" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/3ba2450d-9c43-4722-bf76-ac36b81a8ab5">
