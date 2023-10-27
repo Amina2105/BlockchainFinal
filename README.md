@@ -57,6 +57,8 @@ The main page of the app (Figure 8) is a comforting blue colour and has a weekly
 Figure 9
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 24" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/c7d10025-3f00-4b4f-8afe-2b647af4824d">
 
+When creating a new task, the screen shown above (Figure 9) is displayed. On this screen it is possible to click on the "Cancel" button which closes this page, "Create" which adds a new task, the sidebar button and the "Group" button which opens a page with a group for the group task. 
+
 Figure 10
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 26" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b0981fc1-fe86-4b13-8058-7e4c763fb43c">
 
