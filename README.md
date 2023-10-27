@@ -17,6 +17,10 @@ This is a link to our UI design:https://www.figma.com/proto/CxzBPiJeDRRZJKkkCstf
 
 
 ## Documentation of 3rd Assignment - Dapp UI/UX Prototype
+
+This documentation provides explanations of all pages. The sequence of pages is in the logical order of the expected actions of the user.
+The pages are divided into sections *(Splash Screens, Onboarding Screen, Login and Sign in, and Main Pages)* for better readability and easier understanding.
+
 ### Splash Screens
 
 The Splash screen (Figure 1) of the project, the launch screen that is first seen by the user, is purple in colour and has a tick in the box. The tick in the box symbolises a to-do list
