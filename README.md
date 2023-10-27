@@ -70,46 +70,45 @@ To complete the creation of a new task, payment must be made from the crypto wal
 Figure 10
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 12 45" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/0dd5e339-1c25-48fe-8faf-af0cb17d007f">
 
-The picture above (Figure 11) shows a sidebar screen with user information. 
+If the transaction fails, the message is displayed (Figure 11). The task is not created.
 
-Figure 11
-<img width="1440" alt="Снимок экрана 2023-10-27 в 19 14 18" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b93609fc-9258-498d-9ca6-975786155126">
-
-The figure below (Figure 12) shows the completed group tasks. There is a sidebar button, a blockchain command button that can take you to the group's page, and a "Completed" button that, if clicked, will show other categories of tasks. 
-
-Figure 12
-<img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 37" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/2cf3e591-e0fc-425d-a594-84fb0dfed71b">
-
-The figure below (Figure 13) shows the different categories of tasks, ongoing, completed, not completed and deleted, which you can select to view the different categories of tasks. You can also view all tasks. 
-
-Figure 13
-<img width="1440" alt="Снимок экрана 2023-10-27 в 23 06 04" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/bc2148cc-7c5b-4eee-a514-1e4ae27b55ec">
-
-The figure below (Figure 14) shows the not completed tasks and the checkboxes that can be ticked when the task is completed. Also, there is a sidebar.  
-
-Figure 14
-<img width="1440" alt="Снимок экрана 2023-10-27 в 19 13 52" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/1c94a70b-54fc-4235-b808-c5cb325fa934">
-
-The figure below (Figure 15) shows the deleted tasks.  Also, there is a sidebar.  
-
-Figure 15
-<img width="1440" alt="Снимок экрана 2023-10-27 в 19 14 00" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/7381f382-7b85-438f-a08b-2b55082aa809">
-
-The figure below (Figure 16) shows all ongoing tasks and the checkboxes that can be ticked when the task is completed. Also, you can open a task group and there is a sidebar.  You can click on the "Importance" button to open important tasks. 
-
-Figure 16 
-<img width="1440" alt="Снимок экрана 2023-10-27 в 23 05 32" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/92558c1e-af7c-4ea2-852b-cd36380f17e4">
-
-The figure below (Figure 17) shows the tasks of importance. Also, you can open a task group and there is a sidebar.  You can click the "Edit" button to edit important tasks. 
-
-Figure 17
-<img width="1440" alt="Снимок экрана 2023-10-27 в 19 13 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/0fe5d107-39bb-4879-9890-bd017b2e2412">
-
-If the transaction fails, the message is displayed (Figure 18). 
-
-Figure 18 
+Figure 11 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 23 04 43" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/d2b49983-4e15-44bf-9f77-444ad97b2d51">
 
+The picture above (Figure 12) shows a sidebar screen with user information. 
+
+Figure 12
+<img width="1440" alt="Снимок экрана 2023-10-27 в 19 14 18" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b93609fc-9258-498d-9ca6-975786155126">
+
+The figure below (Figure 13) shows the completed group tasks. There is a sidebar button, a blockchain command button that can take you to the group's page, and a "Completed" button that, if clicked, will show other categories of tasks. 
+
+Figure 13
+<img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 37" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/2cf3e591-e0fc-425d-a594-84fb0dfed71b">
+
+The figure below (Figure 14) shows the different categories of tasks, ongoing, completed, not completed and deleted, which you can select to view the different categories of tasks. You can also view all tasks. 
+
+Figure 14
+<img width="1440" alt="Снимок экрана 2023-10-27 в 23 06 04" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/bc2148cc-7c5b-4eee-a514-1e4ae27b55ec">
+
+The figure below (Figure 15) shows the not completed tasks and the checkboxes that can be ticked when the task is completed. Also, there is a sidebar.  
+
+Figure 15
+<img width="1440" alt="Снимок экрана 2023-10-27 в 19 13 52" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/1c94a70b-54fc-4235-b808-c5cb325fa934">
+
+The figure below (Figure 16) shows the deleted tasks.  Also, there is a sidebar.  
+
+Figure 16
+<img width="1440" alt="Снимок экрана 2023-10-27 в 19 14 00" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/7381f382-7b85-438f-a08b-2b55082aa809">
+
+The figure below (Figure 17) shows all ongoing tasks and the checkboxes that can be ticked when the task is completed. Also, you can open a task group and there is a sidebar.  You can click on the "Importance" button to open important tasks. 
+
+Figure 17 
+<img width="1440" alt="Снимок экрана 2023-10-27 в 23 05 32" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/92558c1e-af7c-4ea2-852b-cd36380f17e4">
+
+The figure below (Figure 18) shows the tasks of importance. Also, you can open a task group and there is a sidebar.  You can click the "Edit" button to edit important tasks. 
+
+Figure 18
+<img width="1440" alt="Снимок экрана 2023-10-27 в 19 13 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/0fe5d107-39bb-4879-9890-bd017b2e2412">
 
 Figure 19
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 26 08" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/f2d26e37-ec30-46c8-962a-1c4cee5c6ede">
