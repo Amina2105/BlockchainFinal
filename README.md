@@ -75,16 +75,20 @@ If the transaction fails, the message is displayed (Figure 11). The task is not 
 Figure 11 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 23 04 43" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/d2b49983-4e15-44bf-9f77-444ad97b2d51">
 
+If you select the group task category during task creation (Figure 9), you will be given the option to create a new team (Figure 12) or select an old team (Figure 13). 
+
 Figure 12
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 26 08" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/f2d26e37-ec30-46c8-962a-1c4cee5c6ede">
 
 Figure 13
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 16 07" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/57206b06-92d9-49e0-a674-cebad0e678e8">
 
+The creation of a group task is shown below (Figure 14).
+
 Figure 14
 <img width="1440" alt="Снимок экрана 2023-10-27 в 23 06 57" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/2005a575-0100-473c-a2c1-635061790afe">
 
-The picture above (Figure 15) shows a sidebar screen with user information. 
+The picture below (Figure 15) shows a sidebar screen with user information. 
 
 Figure 15
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 14 18" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/b93609fc-9258-498d-9ca6-975786155126">
@@ -114,6 +118,8 @@ The figure below (Figure 20) shows all ongoing tasks and the checkboxes that can
 Figure 20 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 23 05 32" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/92558c1e-af7c-4ea2-852b-cd36380f17e4">
 
+The picture below (Figure 21) shows editting of the "Blockchain Team" group task from Figure 20.
+
 Figure 21
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 15 17" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/3fe7ab6c-b161-48fe-bdef-c1aea66f95f9">
 
@@ -121,6 +127,8 @@ The figure below (Figure 22) shows the tasks of importance. Also, you can open a
 
 Figure 22
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 13 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/0fe5d107-39bb-4879-9890-bd017b2e2412">
+
+The picture below (Figure 23) shows editting of the "Go for Meeting" individual task from Figure 22.
 
 Figure 23
 <img width="1440" alt="Снимок экрана 2023-10-27 в 19 17 03" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/16fa8ddf-1926-44c4-a740-02babdfe0fdd">
