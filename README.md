@@ -46,7 +46,7 @@ Figure 6
 Figure 7
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 18" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/ff8577eb-b80d-4bad-ba70-6671d194945b">
 
-User registration consists of 2 screens: 1) on the first screen (Fig. 6) the user can start registration and continue by pressing the "NEXT STEP" button; 2) on the second screen (Fig. 7) he can tick the box to be remembered and finish registration by pressing the "REGISTER" button. If the user already has an account, he can use the "Log In" button. There is also a "<<" button on the second screen to return to the first sign-in screen. 
+User registration consists of 2 screens: 1) on the first screen (Figure 6) the user can start registration and continue by pressing the "NEXT STEP" button; 2) on the second screen (Figure 7) he can tick the box to be remembered and finish registration by pressing the "REGISTER" button. If the user already has an account, he can use the "Log In" button. There is also a "<<" button on the second screen to return to the first sign-in screen. 
 
 ### Main Pages
 Figure 8
