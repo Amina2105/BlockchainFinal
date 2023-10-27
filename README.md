@@ -77,6 +77,8 @@ The figure above (Figure 12) shows the completed group tasks. There is a sidebar
 Figure 13
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 39" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/059054c6-c165-439d-acf9-215f2ddffa6a">
 
+The figure above (Figure 13) shows the different categories of tasks, ongoing, completed, not completed and deleted, which you can select to view the different categories of tasks. You can also view all tasks. 
+
 Figure 14
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 44" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/7b8d2f7c-e578-43c3-96ae-76ec65fef7c5">
 
