@@ -32,7 +32,8 @@ Figure 3
 Figure 4
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 09" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/02849f9b-9750-44cf-89c3-73e6a0bc1746">
 
-The onboaring screens(Figure2, Figure3, and Figure 5) 
+The onboaring screens(Figure2, Figure3, and Figure 4), which present the project to-do list "Click-Tick" to the user, are presented in bright, engaging colours and provide the user the necessary initial information about the project. 
+
 ### Login and Sign in
 Figure 5
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 12" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/cbc86c96-485a-4469-b0fa-270043e3c57b">
