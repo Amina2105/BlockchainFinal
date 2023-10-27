@@ -21,8 +21,8 @@ This is a link to our UI design:https://www.figma.com/proto/CxzBPiJeDRRZJKkkCstf
 
 The Splash screen (Figure 1) of the project, the launch screen that is first seen by the user, is purple in colour and has a tick in the box. The tick in the box symbolises a to-do list
 
+Figure 1
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 24 59" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/65e76383-b3e9-4f86-9401-17faba23e523">
-          Figure 1
 
 ### Onboarding Screen
 
