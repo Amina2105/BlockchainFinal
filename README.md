@@ -67,6 +67,8 @@ To complete the creation of a new task, payment must be made from the crypto wal
 Figure 11
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 29" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/196190ab-eead-4a29-bdda-db1800bc38c2">
 
+The picture above (Figure 11) shows a sidebar screen with user information. 
+
 Figure 12
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 37" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/2cf3e591-e0fc-425d-a594-84fb0dfed71b">
 
