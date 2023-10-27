@@ -92,6 +92,8 @@ The figure above (Figure 15) shows the deleted tasks.  Also, there is a sidebar.
 Figure 16 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 49" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/fad3d788-9e31-43b8-bb0f-49db4d4b87a0">
 
+The figure above (Figure 16) shows all ongoing tasks and the checkboxes that can be ticked when the task is completed. Also, you can open a task group and there is a sidebar.  You can click on the "Importance" button to open important tasks. 
+
 Figure 17
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 52" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/9149d500-2265-4a8e-95ea-a8954b10130a">
 
