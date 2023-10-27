@@ -38,6 +38,8 @@ The onboaring screens(Figure2, Figure3, and Figure 4), which present the project
 Figure 5
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 12" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/cbc86c96-485a-4469-b0fa-270043e3c57b">
 
+On the log in page(Figure 5), the user can log into the app by clicking on the "TAKE ME IN" button if they already have an account. If the user does not have an account, he/she can register in the application by clicking on the "Register me" button.
+
 Figure 6
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 14" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/557683fa-0739-4b7f-8624-33a1d9196622">
 
