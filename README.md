@@ -52,6 +52,8 @@ User registration consists of 2 screens: 1) on the first screen (Figure 6) the u
 Figure 8
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 20" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/a55b03e2-1f83-4650-b27d-d472c6aef993">
 
+The main page of the app (Figure 8) is a comforting blue colour and has a weekly calendar, project name and various buttons. Clicking on the button consisting of 4 squares in the top left corner opens a sidebar with user information.  Also, it is possible to create a new task by clicking on the "Create new task +" button
+
 Figure 9
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 24" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/c7d10025-3f00-4b4f-8afe-2b647af4824d">
 
