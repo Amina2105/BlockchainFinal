@@ -102,6 +102,8 @@ The figure above (Figure 17) shows the tasks of importance. Also, you can open a
 Figure 18 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 55" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/75dc5a05-7e52-4d98-8145-8a18703cc3ce">
 
+If the transaction fails, the message is displayed (Figure 18). 
+
 Figure 19
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 59" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/56ccbe56-0572-4550-9415-8aad924197f2">
 
