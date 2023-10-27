@@ -97,6 +97,8 @@ The figure above (Figure 16) shows all ongoing tasks and the checkboxes that can
 Figure 17
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 52" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/9149d500-2265-4a8e-95ea-a8954b10130a">
 
+The figure above (Figure 17) shows the tasks of importance. Also, you can open a task group and there is a sidebar.  You can click the "Edit" button to edit important tasks. 
+
 Figure 18 
 <img width="1440" alt="Снимок экрана 2023-10-27 в 18 25 55" src="https://github.com/Amina2105/BlockchainFinal/assets/125719800/75dc5a05-7e52-4d98-8145-8a18703cc3ce">
 
