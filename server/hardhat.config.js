@@ -1,6 +1,22 @@
-require("@nomicfoundation/hardhat-toolbox");
+require("@nomiclabs/hardhat-waffle");
+require('dotenv').config()
 
-/** @type import('hardhat/config').HardhatUserConfig */
+task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
+  const accounts = await hre.ethers.getSigners();
+
+  for (const account of accounts) {
+    console.log(account.address);
+  }
+});
+
+
+
 module.exports = {
   solidity: "0.8.19",
+  networks: {
+    sepolia: {
+      url: process.env.ALCHEMY_SEPOLIA_URL,
+      accounts: [process.env.ACCOUNT_PRIVATE_KEY],
+    }
+  }
 };
